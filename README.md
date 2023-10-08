@@ -1,2 +1,2 @@
-# NodeJS EShop API
- NODEJS EShop API
+# Mean-Stack-Project
+ Mean Stack Shopping Project
